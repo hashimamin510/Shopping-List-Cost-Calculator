@@ -1,2 +1,2 @@
-# ShoppingCartPricing
-Calculation of prices of items selected into a cart 
+# Shopping-List-Cost-Calculator
+A Java console application demonstrating arrays by managing a shopping list and calculating costs.
